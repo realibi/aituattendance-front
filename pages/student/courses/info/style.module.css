@@ -1,0 +1,23 @@
+.refresh_btn{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: #fff;
+    border: 0.5px solid grey;
+    padding: 6px 10px;
+}
+.webcam_video_block{
+    width: 640px;
+    height: 480px;
+    border: 0.5px solid grey;
+    margin: 25px auto;
+    position: relative;
+}
+.save_btn{
+    font-size: 16px;
+    padding: 6px 10px;
+    color: #000;
+    background-color: #fff;
+    border: 0.5px solid grey;
+    width: 200px;
+    transition: 0.5s;
+}

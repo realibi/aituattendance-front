@@ -1,0 +1,40 @@
+.container{
+    margin: 30px;
+    border: 0.5px solid grey;
+    padding: 30px;
+    text-align: center;
+}
+.title_block{
+    padding: 30px;
+    border-bottom: 0.5px solid grey;
+}
+.title_text{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+}
+.inputs_block{
+    padding: 30px;
+}
+.inputs_row{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.course_span{
+    font-size: 20px;
+}
+.input{
+    width: 100%;
+    font-size: 18px;
+    padding: 4px;
+}
+.submit_btn{
+    border: 1px solid grey;
+    padding: 8px 12px;
+    background-color: #0070f3;
+    color: #fff;
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 3px;
+}

@@ -1,0 +1,14 @@
+.container{
+    padding: 30px;
+    margin-bottom: 30px;
+    color: rgba(46, 157, 202, 1);
+    background-color: rgba(46, 157, 202, 0.19);
+}
+.title_text{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+}
+.content_text{
+    font-size: 18px;
+}

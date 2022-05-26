@@ -1,0 +1,28 @@
+.container{
+    width: 60%;
+    margin: 0 auto;
+    border: 0.5px solid grey;
+}
+.info_block{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.info_block > * {
+    width: 40%;
+}
+.info_title{
+    font-size: 20px;
+}
+.info_input{
+    font-size: 20px;
+    padding: 2px 4px;
+}
+.save_btn{
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: #fff;
+    border: 1px solid grey;
+    width: 300px;
+}

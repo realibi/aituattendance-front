@@ -1,0 +1,32 @@
+.container{
+    width: 300px;
+    background-color: rgba(53, 54, 55, 0.81);
+    height: 100vh;
+    position: fixed;
+}
+.container > * {
+    padding: 0 10%;
+}
+.logo_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    height: 150px;
+}
+.primary_text{
+    font-size: 24px;
+}
+.menu_item{
+    color: #fff;
+    display: flex;
+    height: 60px;
+    align-items: center;
+    transition: 0.5s;
+}
+.menu_item:hover{
+    background-color: rgba(46, 157, 202, 0.2);
+}
+.active{
+    background-color: rgba(46, 157, 202, 0.5);
+}

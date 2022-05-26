@@ -1,0 +1,31 @@
+.container{
+    margin: 50px 30px 30px 30px;
+}
+.primaryText{
+    font-size: 20px;
+}
+.select{
+    margin-left: 20px;
+    font-size: 16px;
+    padding: 4px;
+}
+.webcam_video_block{
+    width: 640px;
+    height: 480px;
+    border: 0.5px solid grey;
+    margin: 0 auto;
+    position: relative;
+}
+.save_btn{
+    font-size: 16px;
+    padding: 6px 10px;
+    color: #000;
+    background-color: #fff;
+    border: 0.5px solid grey;
+    width: 200px;
+    transition: 0.5s;
+}
+.save_btn:hover{
+    background-color: #0070f3;
+    color: #fff;
+}

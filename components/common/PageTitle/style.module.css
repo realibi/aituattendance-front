@@ -1,0 +1,10 @@
+.container{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(158, 159, 160, 0.36);
+    padding: 0 30px;
+}
+.text{
+    font-size: 24px;
+}

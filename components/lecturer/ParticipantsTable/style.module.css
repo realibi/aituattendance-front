@@ -1,0 +1,27 @@
+.table_row{
+    border-bottom: 0.5px solid grey;
+}
+.refresh_table_button{
+    font-size: 16px;
+    padding: 8px 11px;
+    margin-left: 20px;
+    background-color: #fff;
+    border: 0.5px solid grey;
+    color: #000;
+    border-radius: 3px;
+}
+.table_cell{
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+}
+.action_button{
+    margin: 5px;
+    padding: 8px;
+    background-color: #fff;
+    border: 0.5px solid grey;
+}
+.danger{
+    background-color: #ff5454;
+    color: #fff;
+}

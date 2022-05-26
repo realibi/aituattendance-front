@@ -1,0 +1,20 @@
+.container{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    justify-content: space-between;
+}
+
+.primary_text{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.button{
+    margin: 0 10px;
+    background-color: #fff;
+    border: 0.5px solid grey;
+    padding: 10px;
+    font-size: 16px;
+}
